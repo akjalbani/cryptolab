@@ -1,4 +1,4 @@
-# 🔐 CryptoLab - Cryptography Fundamentals Workbook
+# 🔐 CryptoLab - Cryptography Fundamentals
 
 An interactive web-based workbook for learning cryptography fundamentals, including encoding schemes and XOR operations.
 
@@ -48,7 +48,7 @@ Visit the live site: `https://[your-username].github.io/cryptolab/`
 2. Clone it locally:
    ```bash
    git clone https://github.com/akjalbani/cryptolab.git
-   cd crypto-workbook
+   cd cryptolab
    ```
 3. Copy all files from this project into the repository
 4. Push to GitHub:

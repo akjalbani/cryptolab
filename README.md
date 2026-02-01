@@ -44,10 +44,10 @@ Visit the live site: `https://[your-username].github.io/cryptolab/`
 
 ### Option 2: Manual Setup
 
-1. Create a new repository named `crypto-workbook`
+1. Create a new repository named `cryptolab`
 2. Clone it locally:
    ```bash
-   git clone https://github.com/[your-username]/crypto-workbook.git
+   git clone https://github.com/akjalbani/cryptolab.git
    cd crypto-workbook
    ```
 3. Copy all files from this project into the repository
@@ -62,7 +62,7 @@ Visit the live site: `https://[your-username].github.io/cryptolab/`
 ## 📁 Project Structure
 
 ```
-crypto-workbook/
+cryptolab/
 ├── index.html              # Main landing page
 ├── css/
 │   ├── style.css          # Main stylesheet
